@@ -14,6 +14,6 @@ class Solution(object):
         return
 
 
-sol=Solution()
-resultado=sol.twoSum([2,7,11,15], 9)
-print(resultado)
+#sol=Solution()
+#resultado=sol.twoSum([2,7,11,15], 9)
+#print(resultado)
